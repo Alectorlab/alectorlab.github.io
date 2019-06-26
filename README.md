@@ -1,1 +1,2 @@
-# alectorlab.github.io
+# alectorlab
+Alectorlab.com
